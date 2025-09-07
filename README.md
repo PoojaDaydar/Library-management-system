@@ -1,2 +1,2 @@
 # Library-management-system
-Library Management System implemented using SQL to manage books, members, employees, and transactions. Features include CRUD operations, summary reports, and advanced queries for overdue books, rental income, and member activity
+This Library Management System is built using SQL to efficiently manage books, members, employees, and transactions. It supports CRUD operations for maintaining records, along with advanced SQL queries for overdue tracking, rental income calculation, and usage insights. The project demonstrates key database concepts like JOIN, GROUP BY, HAVING, and CTAS to generate reports and summaries. Designed for learning and showcasing SQL proficiency in real-world data management scenarios.
